@@ -68,6 +68,9 @@ const joevan = {
 </div>
 
 </td>
+<td width="35%" align="center">
+<img src="https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif" width="250" alt="IoT Hardware"/>
+</td>
 </tr>
 </table>
 
@@ -116,19 +119,19 @@ const joevan = {
 <td width="65%">
 
 ### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25"> **Back-End Developer Intern**
-**🏢 PT Asuransi BRI Life** | *Mei 2025 - Present*
+**🏢 PT Asuransi BRI Life** | *Mei 2025 - Juli 2025*
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white" />
 
-**Yang lagi aku kerjain:**
-- 🔧 **Building RESTful APIs** dengan Node.js yang robust
-- 🎂 **Customer engagement features** - fitur notifikasi ulang tahun
+**Yang udah aku kerjain:**
+- 🔧 **Built RESTful APIs** dengan Node.js yang robust
+- 🎂 **Customer engagement features** - fitur notifikasi ulang tahun nasabah
 - 💾 **Database optimization** - query SQL yang complex tapi efficient
-- 🏗️ **Architecture design** - schema database untuk fitur baru
+- 🏗️ **Architecture design** - schema database untuk modul baru
 
-**Impact:** Meningkatkan response time API hingga 40% dan customer engagement rate!
+**Impact:** Berhasil meningkatkan response time API hingga 40% dan customer engagement rate!
 
 </td>
 <td width="35%" align="center">
@@ -163,6 +166,29 @@ const joevan = {
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="65%">
+
+### <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="25"> **IoT Developer Intern**
+**🏢 PT Jaya Konsultan Indonesia** | *April 2021 - Mei 2021*
+
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/IoT-FF6F00?style=flat-square&logo=internetofthings&logoColor=white" />
+
+**Hardware projects yang aku buat:**
+- ⏰ **Digital clock system** dengan RTC module yang akurat
+- 🌡️ **Automatic temperature monitoring** dengan sensor DHT22
+- 🔧 **Arduino Uno programming** untuk IoT applications
+- 📟 **Real-time data display** dengan LCD interface
+
+**First exposure:** Ini pengalaman pertama aku di dunia IoT dan embedded systems!
+
+</td>
+</tr>
+</table>
+
 ---
 
 <div align="center">
@@ -175,13 +201,10 @@ const joevan = {
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> **Contribution Graph**
+### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> **GitHub Contributions**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jvnprmnachmd&custom_title=Joevan's%20Contribution%20Graph%20🚀&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true&theme=react-dark" alt="GitHub Activity Graph" width="100%"/>
-
-</div>
-
-<table align="center">
+<div align="center">
+<table>
 <tr>
 <td align="center" width="50%">
 
@@ -197,6 +220,7 @@ const joevan = {
 </td>
 </tr>
 </table>
+</div>
 
 <div align="center">
 
@@ -233,7 +257,7 @@ Mau diskusi tentang tech, collaborate project, atau sekedar say hello? **I'm jus
 
 <br><br>
 
-**Current Status:** <img src="https://img.shields.io/badge/🚀_Open%20to%20Work-00D4AA?style=flat-square&logoColor=white" alt="Open to Work" />
+**Current Status:** <img src="https://img.shields.io/badge/🎯_Looking%20for%20Opportunities-00D4AA?style=flat-square&logoColor=white" alt="Looking for Opportunities" />
 <br>
 <img src="https://komarev.com/ghpvc/?username=jvnprmnachmd&style=for-the-badge&color=36BCF7&label=Profile+Views&labelColor=0D1117" alt="Profile Views" />
 
