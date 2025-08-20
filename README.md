@@ -1,30 +1,23 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Joevan+Pramana+Achmad;Software+Developer+%7C+Data+Analyst" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&background=0077B5&center=true&vCenter=true&width=600&lines=Joevan+Pramana+Achmad;Back-End+%26+Full-Stack+Developer;Data+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
-
-<div align="center">
-  <blockquote>
-    [cite_start]<p><em>Mahasiswa Sistem Informasi (IPK 3.94) [cite: 7, 15] [cite_start]dengan keahlian dalam rekayasa perangkat lunak dan analisis data untuk mendorong inovasi bisnis. [cite: 7]</em></p>
-  </blockquote>
-</div>
-
-<br>
 
 <table align="center">
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="55%">
       <h3 align="left">👋 About Me</h3>
       <p align="left">
-        Saya adalah seorang problem-solver yang bersemangat dalam membangun aplikasi Back-End yang tangguh (Node.js, SQL) dan menganalisis data kompleks (Python, BigQuery) untuk menemukan wawasan strategis. Saya selalu antusias untuk belajar dan berkolaborasi dalam proyek-proyek inovatif.
+        [cite_start]Seorang Mahasiswa Sistem Informasi (IPK 3.94) yang berfokus pada pengembangan software dan analisis data[cite: 7]. [cite_start]Saya memiliki pengalaman sebagai Back-End Developer Intern di PT Asuransi BRI Life [cite: 8] [cite_start]dan dalam proyek Big Data Analytics bersama Kimia Farma[cite: 9]. [cite_start]Saya terbuka untuk peluang di bidang Full-stack, Back-end, Front-end, Data Science, dan Machine Learning Engineer[cite: 38].
         <br><br>
-        📫 <b>Reach me out:</b><br>
+        📫 <b>Hubungi saya:</b><br>
         <a href="mailto:joevanpan@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
         <a href="https://www.linkedin.com/in/jvnprmnachmd/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       </p>
     </td>
-    <td valign="top" width="40%">
+    <td valign="top" width="45%">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=jvnprmnachmd&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true&disable_animations=false&animation=true" alt="Joevan's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=jvnprmnachmd&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&disable_animations=false&animation=true" alt="Joevan's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvnprmnachmd&layout=compact&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" alt="Joevan's Top Languages" />
       </div>
     </td>
   </tr>
@@ -32,19 +25,13 @@
 
 ---
 
-### 🚀 Technical Skills Arsenal
+### 🚀 Tech Stack & Tools (Hover for Details!)
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=flat-square&logo=google-bigquery&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/scikit--learn-F7931A?style=flat-square&logo=scikit-learn&logoColor=white" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,r,tailwind,postgres,mongodb" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,figma,git" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=gcp,looker,powerbi,postman,vscode" /></a>
 </p>
 
 ---
@@ -52,35 +39,36 @@
 ### 💼 Professional Experience
 
 <details>
-  <summary><strong>Back End Developer Intern | PT Asuransi BRI Life</strong> (Mei 2025 - Sekarang)</summary>
+  <summary><strong>Back End Developer Intern | [cite_start]PT Asuransi BRI Life</strong> (Mei 2025 - Sekarang) [cite: 22, 23]</summary>
   <ul>
-    [cite_start]<li>🚀 Mengembangkan dan memelihara RESTful API endpoints menggunakan <b>Node.js</b>. [cite: 24]</li>
-    <li>💡 Merancang dan mengimplementasikan fitur <b>notifikasi ulang tahun nasabah</b> untuk meningkatkan engagement.</li>
-    [cite_start]<li>⚙️ Menulis dan mengoptimalkan query <b>SQL</b> yang kompleks pada database <b>PostgreSQL</b>. [cite: 25]</li>
+    [cite_start]<li>Mengembangkan dan memelihara RESTful API menggunakan <b>Node.js</b>[cite: 24].</li>
+    <li>Mengerjakan fitur notifikasi ulang tahun nasabah untuk meningkatkan engagement.</li>
+    [cite_start]<li>Menulis dan mengoptimalkan query <b>SQL</b> yang kompleks pada database <b>PostgreSQL</b>[cite: 25].</li>
+    [cite_start]<li>Membantu merancang skema database untuk modul baru dalam aplikasi inti[cite: 26].</li>
   </ul>
 </details>
 
 <details>
-  <summary><strong>Big Data Analytics Intern (Project Based) | Kimia Farma</strong> (Apr 2025 - Mei 2025)</summary>
+  <summary><strong>Big Data Analytics Intern (Project Based) | [cite_start]Kimia Farma</strong> (Apr 2025 - Mei 2025) [cite: 27]</summary>
   <ul>
-    [cite_start]<li>📊 Menganalisis <b>672,000+ transaksi</b> menggunakan <b>Google BigQuery</b> untuk evaluasi performa. [cite: 28]</li>
-    [cite_start]<li>📈 Membangun dashboard dinamis di <b>Looker Studio</b>, memvisualisasikan total pendapatan <b>Rp 345.96M</b> dan metrik kunci lainnya. [cite: 30]</li>
+    [cite_start]<li>Menganalisis data dari <b>672,000+ transaksi</b> menggunakan <b>Google BigQuery</b>[cite: 28].</li>
+    [cite_start]<li>Membangun dashboard dinamis di <b>Looker Studio</b> untuk memvisualisasikan temuan kunci seperti total pendapatan <b>Rp 345.96M</b> dan performa cabang[cite: 30].</li>
   </ul>
 </details>
 
 <details>
-  <summary><strong>Internet of Things (IoT) Intern | PT. Jaya Konsultan Indonesia</strong> (Apr 2021 - Mei 2021)</summary>
+  <summary><strong>Internet of Things (IoT) Intern | PT. [cite_start]Jaya Konsultan Indonesia</strong> (Apr 2021 - Mei 2021) [cite: 31, 32]</summary>
   <ul>
-    [cite_start]<li>🔌 Merancang dan membangun sistem pemantauan suhu otomatis menggunakan <b>Arduino Uno</b> dan sensor DHT11/DS18B20. [cite: 34]</li>
+    [cite_start]<li>Merancang jam digital dengan modul RTC dan sistem monitoring suhu otomatis menggunakan <b>Arduino Uno</b>[cite: 33, 34].</li>
   </ul>
 </details>
 
 ---
 
-### 🏆 GitHub Trophies & Contributions
+### 📊 GitHub Activity & Contributions
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jvnprmnachmd&theme=merko&row=1&column=7&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jvnprmnachmd&bg_color=0d1117&color=ffffff&line=0077b5&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 <div align="center">
