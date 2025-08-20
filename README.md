@@ -1,215 +1,180 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=800&height=100&lines=👋+Hi%2C+I'm+Joevan+Pramana+Achmad;🚀+Back-End+%26+Full-Stack+Developer;📊+Data+%26+Machine+Learning+Enthusiast;🌟+Building+the+Future+with+Code!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=👋%20Halo!%20I'm%20Joevan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0077B5&height=100&section=header&text=&fontSize=16" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=🚀+Back-End+%26+Full-Stack+Developer;📊+Data+%26+Machine+Learning+Enthusiast;☕+Coffee+%2B+Code+%3D+Magic!;🎯+Building+Amazing+Things+with+Code!" alt="Typing Animation" />
 </div>
 
-## 🌟 About Me
+<br>
+
+## 🙋‍♂️ Tentang Saya
+
+<table>
+<tr>
+<td width="60%">
+
+### 👨‍💻 **Siapa aku?**
+Halo! Saya **Joevan Pramana Achmad**, mahasiswa Sistem Informasi yang passionate banget sama dunia teknologi! 🌟
+
+- 🎓 **Mahasiswa SI** dengan IPK 3.94 (lumayan lah ya! 😅)
+- 💼 **Back-End Developer Intern** di PT Asuransi BRI Life
+- 📊 **Data Enthusiast** yang suka ngulik data besar
+- 🌱 Lagi belajar **Machine Learning** (masih beginner tapi semangat!)
+- ☕ **Coffee addict** - ga ada kopi ga bisa coding!
+
+### 🎯 **Fun Facts tentang aku:**
+- 🐛 Suka debugging sampai tengah malam (tapi worth it kalau berhasil!)
+- 🎵 Coding sambil dengerin musik pop/rock
+- 🎮 Weekend = main game atau ngoding side project
+- 📚 Suka baca tech blog dan tutorial YouTube
+- 🍕 Tim pineapple on pizza! (don't judge me 😂)
+
+</td>
+<td width="40%">
+<div align="center">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF"/>
+
+### 🏆 **GitHub Stats**
+<img src="https://github-readme-stats.vercel.app/api?username=jvnprmnachmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FFD700&text_color=FFFFFF&border_radius=15" alt="GitHub Stats" width="350"/>
+
+</div>
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=600&size=24&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=🛠️+Tech+Stack+yang+Aku+Kuasai" alt="Tech Stack" />
+</div>
+
+<div align="center">
+
+### 💻 **Programming Languages**
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,r&theme=dark" />
+
+### 🚀 **Frameworks & Tools**
+<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express,tailwind&theme=dark" />
+
+### 🗄️ **Database & Cloud**
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,gcp&theme=dark" />
+
+### 🔧 **Daily Tools**
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=600&size=24&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=💼+Pengalaman+Kerja+Aku" alt="Experience" />
+</div>
+
+<table>
+<tr>
+<td width="70%">
+
+### 🏢 **Back-End Developer Intern - PT Asuransi BRI Life**
+**📅 Mei 2025 - Juli 2025**
+
+Lagi asik banget nih jadi intern di BRI Life! Yang aku kerjain:
+- 🔧 Bikin dan maintain **RESTful API** pakai **Node.js**
+- 🎂 Develop fitur notifikasi ulang tahun nasabah (biar makin engagement!)
+- 💾 Nulis query **SQL** yang complex di **PostgreSQL**
+- 🏗️ Bantu design database schema buat modul baru
+
+**Yang aku pelajari:** Teamwork, enterprise-level coding, sama cara handle database yang gede banget!
+
+</td>
+<td width="30%" align="center">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="Working GIF"/>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="30%" align="center">
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" alt="Data GIF"/>
+</td>
+<td width="70%">
+
+### 📊 **Big Data Analytics Intern - Kimia Farma**
+**📅 April 2025 - Mei 2025**
+
+Project based yang seru banget! Aku handle:
+- 📈 Analisis **672,000+ transaksi** pakai **Google BigQuery**
+- 📊 Bikin dashboard keren di **Looker Studio**
+- 💰 Nemuin insight revenue **Rp 345.96M** (gede banget kan!)
+- 🏪 Analisis performa cabang-cabang Kimia Farma
+
+**Yang bikin excited:** Pertama kali handle data sebanyak ini, dan hasilnya bisa dipake buat business decision!
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=600&size=24&duration=2000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=📈+GitHub+Activity+Aku" alt="GitHub Activity" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jvnprmnachmd&custom_title=Joevan's%20GitHub%20Activity%20📈&bg_color=0D1117&color=FFFFFF&line=00D4FF&point=FFD700&area=true&hide_border=true&theme=react-dark" alt="GitHub Activity Graph" />
+</div>
 
 <table align="center">
-  <tr>
-    <td valign="top" width="50%">
-      <div align="left">
-        <h3>🎯 Quick Facts</h3>
-        <img align="right" alt="Coding" width="150" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
-        
-        - 🎓 **Information Systems Student** (GPA: 3.94/4.0)
-        - 💼 **Back-End Developer Intern** at PT Asuransi BRI Life
-        - 📊 **Big Data Analytics Experience** with Kimia Farma
-        - 🌱 Currently learning **Advanced Machine Learning**
-        - 💡 Open to opportunities in **Full-stack, Data Science & ML**
-        - 🎯 **2024 Goal**: Contribute to Open Source Projects
-        
-        <br>
-        
-        <div align="center">
-          <img src="https://github-profile-trophy.vercel.app/?username=jvnprmnachmd&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=4" alt="GitHub Trophies" />
-        </div>
-      </div>
-    </td>
-    <td valign="top" width="50%">
-      <div align="center">
-        <h3>📊 GitHub Analytics</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=jvnprmnachmd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10" alt="Joevan's GitHub Stats" />
-        
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvnprmnachmd&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&border_radius=10" alt="GitHub Streak" />
-        
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvnprmnachmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10" alt="Top Languages" />
-      </div>
-    </td>
-  </tr>
+<tr>
+<td align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jvnprmnachmd&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=FFD700&fire=FF6B6B&currStreakLabel=00D4FF&border_radius=15" alt="GitHub Streak" />
+</td>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvnprmnachmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_radius=15" alt="Top Languages" />
+</td>
+</tr>
 </table>
 
----
-
-## 🚀 Tech Stack & Tools
-
 <div align="center">
-  <h3>💻 Programming Languages</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,r,html,css&theme=dark" />
-  
-  <h3>🛠️ Frameworks & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express,tailwind,bootstrap&theme=dark" />
-  
-  <h3>🗄️ Databases & Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,gcp,firebase,vercel&theme=dark" />
-  
-  <h3>🔧 Tools & Platforms</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker&theme=dark" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jvnprmnachmd&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10" alt="Wakatime Stats" />
-</div>
-
----
-
-## 💼 Professional Journey
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=💼+My+Professional+Experience" alt="Experience" />
-</div>
-
-### 🏢 Current & Recent Roles
-
-<table>
-  <tr>
-    <td width="60%">
-      <h4>🚀 Back-End Developer Intern</h4>
-      <p><strong>PT Asuransi BRI Life</strong> | May 2025 - Juli 2025</p>
-      <ul>
-        <li>🔧 Developing and maintaining RESTful APIs using <strong>Node.js</strong></li>
-        <li>🎂 Implementing customer birthday notification features</li>
-        <li>💾 Writing and optimizing complex <strong>SQL queries</strong> on <strong>PostgreSQL</strong></li>
-        <li>🏗️ Designing database schemas for core application modules</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="Coding GIF">
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" alt="Data Analysis GIF">
-    </td>
-    <td width="60%">
-      <h4>📊 Big Data Analytics Intern</h4>
-      <p><strong>Kimia Farma</strong> | Apr 2025 - May 2025</p>
-      <ul>
-        <li>📈 Analyzed <strong>672,000+ transactions</strong> using <strong>Google BigQuery</strong></li>
-        <li>📊 Built dynamic dashboards in <strong>Looker Studio</strong></li>
-        <li>💰 Visualized key findings: Total revenue <strong>Rp 345.96M</strong></li>
-        <li>🏪 Analyzed branch performance and business insights</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="60%">
-      <h4>🌐 IoT Developer Intern</h4>
-      <p><strong>PT. Jaya Konsultan Indonesia</strong> | Apr 2021 - May 2021</p>
-      <ul>
-        <li>⏰ Designed digital clock with RTC module</li>
-        <li>🌡️ Built automatic temperature monitoring system</li>
-        <li>🔧 Worked with <strong>Arduino Uno</strong> and IoT sensors</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="IoT GIF">
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Activity & Contributions
-
-<div align="center">
-  <h3>🔥 Contribution Activity</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jvnprmnachmd&custom_title=Joevan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=FFFFFF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&theme=react-dark" alt="GitHub Activity Graph" />
-</div>
-
-<div align="center">
-  <h3>🐍 Contribution Snake</h3>
+  <h3>🐍 Look at this cute snake eating my contributions!</h3>
   <img src="https://raw.githubusercontent.com/jvnprmnachmd/jvnprmnachmd/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 ---
 
-## 🎨 Featured Projects
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🎨+My+Featured+Projects" alt="Projects" />
-</div>
-
-<table>
-  <tr>
-    <td width="50%">
-      <div align="center">
-        <h4>🚀 Project 1</h4>
-        <img src="https://via.placeholder.com/400x200/0077B5/FFFFFF?text=Your+Amazing+Project" alt="Project 1" />
-        <p>Description of your awesome project</p>
-        <a href="#"><img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white"></a>
-      </div>
-    </td>
-    <td width="50%">
-      <div align="center">
-        <h4>📊 Project 2</h4>
-        <img src="https://via.placeholder.com/400x200/00D9FF/000000?text=Data+Analytics+Project" alt="Project 2" />
-        <p>Description of your data project</p>
-        <a href="#"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black"></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 Weekly Development Breakdown
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jvnprmnachmd&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&custom_title=Weekly%20Development%20Time&border_radius=10" alt="Coding Time" />
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  <h3>📫 Reach out to me!</h3>
-  
-  <a href="mailto:joevanpan@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&logoWidth=20" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/jvnprmnachmd/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/jvnprmnachmd">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  
-  <br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=jvnprmnachmd&style=for-the-badge&color=00D9FF" alt="Profile Views" />
-  
-  <br><br>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+✨;Let's+build+something+amazing+together!+🚀;Always+open+to+new+opportunities!+💼" alt="Footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=600&size=24&duration=2000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=📞+Yuk+Connect+Sama+Aku!" alt="Connect" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0077B5&height=100&section=footer&text=&fontSize=16" width="100%"/>
+
+Kalau mau ngobrol-ngobrol soal tech, kerjasama, atau sekedar say hi, langsung aja contact aku! 😊
+
+<a href="mailto:joevanpan@outlook.com">
+  <img src="https://img.shields.io/badge/📧_Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/jvnprmnachmd/">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=jvnprmnachmd&style=for-the-badge&color=00D4FF&label=Profile+Views" alt="Profile Views" />
+
 </div>
 
 ---
 
 <div align="center">
-  <sub>💡 <strong>Fun Fact:</strong> I debug with console.log() and I'm not ashamed of it! 😄</sub>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=600&size=20&duration=2000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=✨+Thanks+for+stopping+by!;🚀+Let's+build+something+awesome+together!;☕+May+your+code+compile+and+your+coffee+be+strong!" alt="Footer Message" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Happy coding!</b> 😄</em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="60">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" />
 </div>
