@@ -25,10 +25,10 @@
 const joevan = {
     name: "Joevan Pramana Achmad",
     role: "Fresh Graduate & Job Seeker 🎯",
-    education: "Information Systems (GPA 3.94/4.0) ⭐",
+    education: "Information Systems (GPA 3.93/4.0) ⭐",
     location: "Jakarta, Indonesia 🇮🇩",
-    experience: ["Backend Development", "Data Analytics", "IoT"],
-    expertise: ["RESTful APIs", "Big Data", "Database Design"],
+    experience: ["Mobile Developer","Backend Development", "Data Analytics", "IoT"],
+    expertise: ["Mobile Development","RESTful APIs", "Big Data", "Database Design"],
     lookingFor: ["Full-Stack", "Backend", "Data Science"],
     currentFocus: "Building scalable web applications 🚀",
     motto: "Clean code, smart solutions! ☕"
@@ -36,7 +36,7 @@ const joevan = {
 ```
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> **Highlights**
-- 🎓 **IS Student** with excellent academic performance (3.94/4.0)
+- 🎓 **IS Student** with excellent academic performance (3.93/4.0)
 - 💼 **3 successful internships** across different tech domains
 - 🔧 **Backend specialist** - APIs, databases, system optimization
 - 📊 **Data expert** - analyzed 672K+ transaction records
