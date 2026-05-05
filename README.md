@@ -126,7 +126,12 @@ const joevan = {
 - 🏗️ **Designed database schemas** for new application modules
 
 </td>
-<td width="50%">
+</tr>
+</table>
+
+<table>
+<tr>
+  <td width="50%">
 
 ### <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="25"> **Big Data Analytics Intern**
 **🏢 Kimia Farma** | *April - Mei 2025*
@@ -142,11 +147,7 @@ const joevan = {
 - 🏪 **Delivered branch performance analysis** for strategic decisions
 
 </td>
-</tr>
-</table>
 
-<table>
-<tr>
 <td width="50%">
 
 ### <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="25"> **IoT Developer Intern**
