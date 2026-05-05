@@ -29,7 +29,7 @@ const joevan = {
     location: "Jakarta, Indonesia 🇮🇩",
     experience: ["Mobile Developer","Backend Development", "Data Analytics", "IoT"],
     expertise: ["Mobile Development","RESTful APIs", "Big Data", "Database Design"],
-    lookingFor: ["Full-Stack", "Backend", "Data Science"],
+    lookingFor: ["Full-Stack", "Backend", "Mobile Developer", "Data Science"],
     currentFocus: "Building scalable web applications 🚀",
     motto: "Clean code, smart solutions! ☕"
 };
@@ -77,7 +77,7 @@ const joevan = {
 ### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="25"> **Database, Cloud & Tools**
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,gcp,vscode,git,github,figma,postman,arduino&theme=dark&perline=5" />
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Arsenal&fontSize=18&titleColor=00D9FF&lineCount=2&theme=github_dark&line1=JavaScript,js,f7df1e;Node.js,nodejs,339933;React,react,61dafb;PostgreSQL,postgresql,4169e1;&line2=Python,python,3776ab;BigQuery,bigquery,4285f4;Arduino,arduino,00979d;Git,git,f05032;" alt="Tech Arsenal" />
+### <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Arsenal&fontSize=18&titleColor=00D9FF&lineCount=2&theme=github_dark&line1=JavaScript,js,f7df1e;Node.js,nodejs,339933;React,react,61dafb;PostgreSQL,postgresql,4169e1;&line2=Python,python,3776ab;BigQuery,bigquery,4285f4;Arduino,arduino,00979d;Git,git,f05032;" alt="Tech Arsenal" />
 
 </div>
 
@@ -93,6 +93,23 @@ const joevan = {
 
 <table>
 <tr>
+  
+<td width="50%">
+
+### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25"> **Mobile Development Intern**
+**🏢 PT Kirana Megatara Tbk** | *Maret 2026 - Present*
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white" />
+
+**Key Achievements:**
+- 🔧 **Built robust RESTful APIs** using PHP (Ci3)
+- 💾 **Optimized database performance** - complex SQL queries
+- 🏗️ **Designed database schemas** for new application modules
+
+</td>
+
 <td width="50%">
 
 ### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25"> **Back-End Developer Intern**
@@ -130,7 +147,7 @@ const joevan = {
 
 <table>
 <tr>
-<td width="100%">
+<td width="50%">
 
 ### <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="25"> **IoT Developer Intern**
 **🏢 PT Jaya Konsultan Indonesia** | *April - Mei 2021*
